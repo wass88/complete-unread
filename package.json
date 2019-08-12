@@ -1,0 +1,11 @@
+{
+  "name": "complete-unread",
+  "version": "0.1.0",
+  "description": "Super All unread",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wass88",
+  "license": "ISC"
+}
